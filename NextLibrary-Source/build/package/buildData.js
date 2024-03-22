@@ -14,7 +14,7 @@ function development_version(check) {
        
     console.log("\nDevelopment Release Version:"),
     console.log(
-        fs.readFileSync(__dirname + "\\id\\versions\\v1.0.1.core_nxa", "utf8")
+        fs.readFileSync(__dirname + "\\id\\versions\\v1.0.0.core_nxa", "utf8")
     );
 }
 
