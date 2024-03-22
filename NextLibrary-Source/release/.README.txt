@@ -1,0 +1,2 @@
+Please download the latest NextLanguage build (using this link; https://github.com/Nxium-Developments/NextLanguage/releases ) and paste it into this folder
+for NextLibrary to interact and function with NextLanguage

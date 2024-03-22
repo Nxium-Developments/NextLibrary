@@ -1,0 +1,6 @@
+core.nextlanguage.fetch;
+
+Development Product Type = {
+    current = "package_library";
+    version = "packch"
+}
