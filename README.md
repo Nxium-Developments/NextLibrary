@@ -3,7 +3,8 @@ NextLibrary is an purpose built library for Nxium Development, containing essent
 - Log File Generation (Used for generating log files)
 - Automatic Package Updater (Allows for updating the project automatically across users, not for the library)
 - Project Template Generator (Allows dor automatic template generation, based on different settings)
-- Package Debugger (Creates a copy of the debug file, and creates a user function to place into the debug file [...](https://guthub.com/Nxium-Developments/NextLibrary))
+- Package Debugger (Creates a copy of the debug file, and creates a user function to place into the debug file [...](https://github.com/Nxium-Developments/NextLibrary/blob/docs/d
+- README.md))
 - Useful code documentation (Have code yemplates, ready to use functions with code documentation)
 - Console Commands Function (Allows for easily console command creation and handling)
 These useful features, along with NextLibrary's documentation Allows for easy project creations for Nxium Development Members.
