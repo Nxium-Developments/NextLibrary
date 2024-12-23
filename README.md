@@ -9,4 +9,5 @@ NextLibrary is an purpose built library for Nxium Development, containing essent
 These useful features, along with NextLibrary's documentation Allows for easy project creations for Nxium Development Members.
 
 ## How do I install NextLibrary
-We'll be releasing an Install Guide, soon once we restart NextLibrary's Development.
+You can create a new npm project with ``npm init`` and then run ``npm install nextlibrary-unofficial`` in the project directory.
+After that you can start using NextLibrary in your project. For an documentation on NextLibrary, write ``require('nextlibrary-unofficial')`` in your main index file and run ``node .`` to create the examples folder!
