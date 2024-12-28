@@ -18,5 +18,7 @@ if (!fs.existsSync(path.resolve(__dirname, '../../examples'))) {
 const Config = require('./modules/Config');
 const Debugger = require('./modules/Debugger/Debugger');
 const PackageDebugger = require('./modules/Debugger/Package');
+const API = require('./modules/NAI/API/Service');
+const getResponse = require('./modules/NAI/Models/Generation');
 
-module.exports = { Config, Debugger, PackageDebugger };
+module.exports = { Config, Debugger, PackageDebugger, API, getResponse };
